@@ -1,4 +1,4 @@
-.index-body, .chilli-body, .egg-body, .pierogi-body { background-color: burlywood; text-align: center; 
+.index-body, .chilli-body, .egg-body, .pierogi-body { background-color: darkolivegreen; text-align: center; 
 
       }
 
@@ -6,9 +6,9 @@
 
 .pic { height: auto; width: auto; max-height: 500px; max-width: 500px;}
 
-.headings { font-weight: 700px; font-size: 50px; color: blueviolet;}
+.headings { font-weight: 700px; font-size: 50px; color: rgb(44, 140, 191);}
 
-.con {color: pink; font-size: 24px; font-family:'Monaco', Courier, monospace}
+.con {color: peru; font-size: 24px; font-family:'Monaco', Courier, monospace}
 
 
 
